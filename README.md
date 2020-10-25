@@ -24,7 +24,7 @@ NASIL ÇALIŞIR?
 
 2-)java -jar Prolab23.jar yazarak projeyi çalıştırınız.
 
-**(Alternatif olarak prje klasörünün direkt içinde yer alan Prolab23.jar Jar dosyasını çift tıklayarak açmaya çalışabilirsiniz.)
+**(Alternatif olarak proje klasörünün direkt içinde yer alan Prolab23.jar Jar dosyasını çift tıklayarak açmaya çalışabilirsiniz.)
 
 3-)Açılan uygulama ekranında 2 seçeneğiniz vardır. Kaydol butonuna basıp Kayıt olmak yada Bulunduğunuz Ekranda Eğer önceden açtığınız bir hesabınız varsa o hesabın bilgilerini girerek giriş yapabilirsiniz.
 4-)Eğer Kayıt ekranını açarsanız; Öncelikle Bütün bilgilerinizi dikkatli bir şekilde giriniz,ardından ise En sevdiğiniz 3 türü seçiniz. 
