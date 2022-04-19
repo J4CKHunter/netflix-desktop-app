@@ -18,7 +18,7 @@ UYARILAR:
 
 * Aksiyon ve Macera kategorisi kısa tutmak için Aksiyon olarak kısaltılmıştır.
 
-NASIL ÇALIŞIR?
+# NASIL ÇALIŞIR?
 
 1. Cmd üzerinden proje dosyasının bulunduğu yere geliniz
 
