@@ -41,3 +41,15 @@ Eğer açtığınız program film ise direkt olarak izle butonuna basabilirsiniz
 Başka bir program izlemek istiyorsanız durdur butonuna basmanız yeterli olacaktır.
 
 8. Eğer bir programı tekrar açarsanız Kaldığınız bölümü seçerek kaldığınız yerden devam edebilirsiniz.
+
+
+### example screenshots from app
+
+[<img src="https://raw.githubusercontent.com/J4CKHunter/netflix-desktop-app/master/screenshots/1.png" width="400"/>](1.png)
+[<img src="https://raw.githubusercontent.com/J4CKHunter/netflix-desktop-app/master/screenshots/2.png" width="400"/>](2.png)
+[<img src="https://raw.githubusercontent.com/J4CKHunter/netflix-desktop-app/master/screenshots/3.png" width="400"/>](3.png)
+[<img src="https://raw.githubusercontent.com/J4CKHunter/netflix-desktop-app/master/screenshots/4.png" width="400"/>](4.png)
+[<img src="https://raw.githubusercontent.com/J4CKHunter/netflix-desktop-app/master/screenshots/5.png" width="400"/>](5.png)
+[<img src="https://raw.githubusercontent.com/J4CKHunter/netflix-desktop-app/master/screenshots/6.png" width="400"/>](6.png)
+[<img src="https://raw.githubusercontent.com/J4CKHunter/netflix-desktop-app/master/screenshots/7.png" width="400"/>](7.png)
+
