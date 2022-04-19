@@ -1,8 +1,8 @@
 ## netflix desktop application with java
 
-Projede gerçekleştirilmesi istenenleri [dökümantasyon dosyasında](https://github.com/MelihYesilyurt/Netflix-Uygulamasi-ProLab2-Proje3/blob/master/BLM210%20PRO%20LAB_II_3.proje.docx.pdf) bulabilirsiniz.
+Projede gerçekleştirilmesi istenenleri [dökümantasyon dosyasında](https://github.com/J4CKHunter/netflix-desktop-app/blob/master/BLM210%20PRO%20LAB_II_3.proje.docx.pdf) bulabilirsiniz.
 
-Projede gerçekleştirilen isterler ile ilgili detaylı açıklamalar [proje raporumun](https://github.com/MelihYesilyurt/Netflix-Uygulamasi-ProLab2-Proje3/blob/master/Rapor.pdf) içerisindedir.
+Projede gerçekleştirilen isterler ile ilgili detaylı açıklamalar [proje raporunun](https://github.com/J4CKHunter/netflix-desktop-app/blob/master/Rapor.pdf) içerisindedir.
 
 UYARILAR:
 
