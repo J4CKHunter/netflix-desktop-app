@@ -4,7 +4,7 @@ Projede gerçekleştirilmesi istenenleri [dökümantasyon dosyasında](https://g
 
 Projede gerçekleştirilen isterler ile ilgili detaylı açıklamalar [proje raporunun](https://github.com/J4CKHunter/netflix-desktop-app/blob/master/Rapor.pdf) içerisindedir.
 
-UYARILAR:
+## UYARILAR:
 
 * Eğer daha önce kimse herhangi bir programa oy vermediyse, kullanıcı kayıt olurken herhangi bir tavsiye çıkmaz.
 
@@ -18,7 +18,7 @@ UYARILAR:
 
 * Aksiyon ve Macera kategorisi kısa tutmak için Aksiyon olarak kısaltılmıştır.
 
-### NASIL ÇALIŞIR?
+## NASIL ÇALIŞIR?
 
 1. Cmd üzerinden proje dosyasının bulunduğu yere geliniz
 
